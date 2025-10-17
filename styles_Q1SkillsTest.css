@@ -1,0 +1,31 @@
+body {
+	background-color:orangered ;
+	color: black;
+	background-image: url(https://tse2.mm.bing.net/th/id/OIP.h5WxGoNvsgwMY8j8T8H3sgHaEo?pid=Api&P=0&h=220);
+    background-size: cover ;
+    background-repeat: repeat;
+    background-position: center;
+    font-family:  "Tagesschrift", system-ui; color: black;
+
+}
+
+.container {
+	background-color: #cec1ff;
+	width: 40%; 
+	padding: 15px;
+	border: 3px solid black; 
+	border-radius: 19px;
+
+}
+
+input[type=submit] {
+background-color: #2b30ff;
+ border-radius: 45px;
+ color: white;
+padding: 16px 32px;
+ text-decoration: none;
+ margin: 4px 2px;
+cursor: pointer;
+}
+
+
